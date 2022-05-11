@@ -4,7 +4,11 @@
 
 To implement Zeta Music Player you will need to use the iTunes Search API.
 Go directly to "Search Examples" section, and verify that you only need to use a
-call ​https://itunes.apple.com/search?term=john+lennon to
+call ​https://itunes.apple.com/search?term=john+lennon
+
+## Working Sample
+
+https://zeta-music-player.vercel.app/
 
 ## Stack
 
